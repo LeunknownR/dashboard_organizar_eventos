@@ -1,0 +1,38 @@
+/* Custom properties */
+:root {
+    --dark-1: #252525;
+    --dark-2: #454545;
+    --light-1: #ffffff;
+    --light-2: #eeeeee;
+    --light-gray-1: #959595;
+    --light-gray-2: #757575;
+    --red-1: #ff4466;
+    --red-2: #ff2c4b;
+    --purple-1: #693cfa;
+    --green-1: #4adf55;
+}
+/* General */
+* {
+    box-sizing: border-box;
+    font-family: 'Barlow Semi Condensed', sans-serif !important;
+}
+*::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+}
+*::-webkit-scrollbar-track {
+    background-color: var(--dark-2);
+}
+*::-webkit-scrollbar-thumb {
+    background-color: var(--light-gray-2);
+    border-radius: 3px;
+}
+body {
+    background-color: var(--light-2);
+    min-height: 100vh;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

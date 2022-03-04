@@ -1,0 +1,246 @@
+{
+    "eventType": [
+        {
+            "id": 1,
+            "text": "Talleres de un día"
+        },
+        {
+            "id": 2,
+            "text": "Talleres con programación"
+        }, 
+        {
+            "id": 3,
+            "text": "Conferencias"
+        }, 
+        {
+            "id": 4,
+            "text": "Concursos"
+        }, 
+        {
+            "id": 5,
+            "text": "Activaciones"
+        }, 
+        {
+            "id": 6,
+            "text": "Otros"
+        }
+    ], 
+    "eventSubtype": [
+        {
+            "id": 1,
+            "text": "Culturales"
+        }, 
+        {
+            "id": 2,
+            "text": "Deportivos"
+        }, 
+        {
+            "id": 3,
+            "text": "Académico"
+        }, 
+        {
+            "id": 4,
+            "text": "Salud"
+        }, 
+        {
+            "id": 5,
+            "text": "Consejería"
+        }, 
+        {
+            "id": 6,
+            "text": "Responsabilidad Social"
+        } 
+    ], 
+    "eventGraphic": [
+        {
+            "id": 1, 
+            "text": "Manualidades"
+        }, 
+        {
+            "id": 2, 
+            "text": "Música"
+        }, 
+        {
+            "id": 3, 
+            "text": "Baile"
+        }, 
+        {
+            "id": 4, 
+            "text": "Teatro"
+        }, 
+        {
+            "id": 5, 
+            "text": "Expresión"
+        } 
+    ],
+    "days": [
+        {
+            "id": 1, 
+            "text": "Lunes"
+        }, 
+        {
+            "id": 2, 
+            "text": "Martes"
+        }, 
+        {
+            "id": 3, 
+            "text": "Miércoles"
+        }, 
+        {
+            "id": 4, 
+            "text": "Jueves"
+        }, 
+        {
+            "id": 5, 
+            "text": "Viernes"
+        }, 
+        {
+            "id": 6, 
+            "text": "Sábado"
+        }, 
+        {
+            "id": 7, 
+            "text": "Domingo"
+        } 
+    ],
+    "organizers": [
+        {
+            "id": 1,
+            "text": "Vida universitaria"
+        }, 
+        {
+            "id": 2,
+            "text": "Empleabilidad"
+        }, 
+        {
+            "id": 3,
+            "text": "Internacional"
+        }, 
+        {
+            "id": 4,
+            "text": "Consejería"
+        }, 
+        {
+            "id": 5,
+            "text": "Salud"
+        }, 
+        {
+            "id": 6,
+            "text": "Responsabilidad Social"
+        },
+        {
+            "id": 7,
+            "text": "Académico"
+        }
+    ],
+    "location": [
+        {
+            "id": 1,
+            "text": "Zoom"
+        }, 
+        {
+            "id": 2, 
+            "text": "Lugar"
+        }
+    ],
+    "publicByCampus": [
+        {
+            "id": 1, 
+            "text": "Lima Centro"
+        },
+        {
+            "id": 2, 
+            "text": "Lima Sur"
+        },
+        {
+            "id": 3, 
+            "text": "Lima Norte"
+        },
+        {
+            "id": 4, 
+            "text": "Ate"
+        },
+        {
+            "id": 5, 
+            "text": "San Juan de Lurigancho"
+        },
+        {
+            "id": 6, 
+            "text": "Arequipa"
+        },
+        {
+            "id": 7, 
+            "text": "Piura"
+        },
+        {
+            "id": 8, 
+            "text": "Ica"
+        },
+        {
+            "id": 9, 
+            "text": "Chimbote"
+        },
+        {
+            "id": 10, 
+            "text": "Chiclayo"
+        },
+        {
+            "id": 11, 
+            "text": "Huancayo"
+        },
+        {
+            "id": 12, 
+            "text": "Trujillo"
+        }
+    ], 
+    "teachers": [
+        {
+            "id": 1, 
+            "fullName": "Nancy Saydy Pastor Armas" 
+        },
+        {
+            "id": 2, 
+            "fullName": "Jessica Lorena Ugarte Parro" 
+        },
+        {
+            "id": 3, 
+            "fullName": "Esteban Felipe Paredes Castro" 
+        },
+        {
+            "id": 4, 
+            "fullName": "Alexander Sosa Valencia" 
+        },
+        {
+            "id": 5, 
+            "fullName": "Zendy Rubi Morales Ugarte" 
+        },
+        {
+            "id": 6, 
+            "fullName": "Leonel Ever Pamo Granda" 
+        },
+        {
+            "id": 7, 
+            "fullName": "Erika Milagros Quenaya Valencia" 
+        },
+        {
+            "id": 8, 
+            "fullName": "Daniela Elizabeth Castro Castro"
+        },
+        {
+            "id": 9, 
+            "fullName": "Pamela Tatiana Cornejo Granda" 
+        },
+        {
+            "id": 10, 
+            "fullName": "Stephanie Karla Sosa Cornejo" 
+        },
+        {
+            "id": 11, 
+            "fullName": "Pool Gabriel García Morales" 
+        },
+        {
+            "id": 12, 
+            "fullName": "Claudia Andrea Cornejo Morales" 
+        }
+    ]
+}
